@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Hi I'm Peter, and I'm an RIT graduate with a BS and MS in computer engineering.
+I like machine learning and computer vision applications and hope to make a career out of them after I gain some industry experience.
+Most of my info is on the main site or on LinkedIn, so go there to learn more about me.
+Otherwise, welcome to my blog, and I hope you find something here interesting.

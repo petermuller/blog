@@ -9,7 +9,7 @@ name: Peter Muller
 description: Nerdy ramblings from a nerdy guy.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/profile.jpg
+avatar: /blog/images/profile.jpg
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: petermuller
-  instagram:
+  instagram: petermuller21
   linkedin: petermuller0
   pinterest:
   rss: # just type anything here for a working RSS icon
